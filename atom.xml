@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-26T10:40:17.423Z</updated>
+  <updated>2019-10-26T12:13:15.955Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello</title>
+    <link href="http://yoursite.com/2019/10/26/hello/"/>
+    <id>http://yoursite.com/2019/10/26/hello/</id>
+    <published>2019-10-26T12:09:43.000Z</published>
+    <updated>2019-10-26T12:13:15.955Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="hello"><a href="#hello" class="headerlink" title="hello"></a>hello</h1><h2 id="test"><a href="#test" class="headerlink" title="test"></a>test</h2><p>test</p><p><img alt="441017" data-src="./441017.jpg" class="lozad"></p><p>test</p><p><img alt="69624" data-src="./69624.jpg" class="lozad"></p><p>test</p><p>图片测试</p><h2 id="test-1"><a href="#test-1" class="headerlink" title="test"></a>test</h2><p><img alt="801867" data-src="./801867.jpg" class="lozad"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;hello&quot;&gt;&lt;a href=&quot;#hello&quot; class=&quot;headerlink&quot; title=&quot;hello&quot;&gt;&lt;/a&gt;hello&lt;/h1&gt;&lt;h2 id=&quot;test&quot;&gt;&lt;a href=&quot;#test&quot; class=&quot;headerlink&quot; title=&quot;test&quot;
+      
+    
+    </summary>
+    
+      <category term="first" scheme="http://yoursite.com/categories/first/"/>
+    
+    
+      <category term="first" scheme="http://yoursite.com/tags/first/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
