@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.lovelijian.top/tags/index.html</loc>
+    
+    <lastmod>2019-10-28T12:43:38.868Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.lovelijian.top/gallery/index.html</loc>
+    
+    <lastmod>2019-10-28T12:43:13.897Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.lovelijian.top/categories/index.html</loc>
+    
+    <lastmod>2019-10-28T12:43:00.868Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.lovelijian.top/about/index.html</loc>
+    
+    <lastmod>2019-10-28T12:41:56.061Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.lovelijian.top/2019/10/26/hello/</loc>
     
     <lastmod>2019-10-27T14:00:50.561Z</lastmod>
@@ -16,23 +44,9 @@
   </url>
   
   <url>
-    <loc>https://blog.lovelijian.top/about/index.html</loc>
-    
-    <lastmod>2019-10-26T16:35:25.295Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.lovelijian.top/2019/10/26/hello-world/</loc>
     
     <lastmod>2019-10-26T10:40:17.423Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.lovelijian.top/categories/index.html</loc>
-    
-    <lastmod>2019-10-25T14:31:47.174Z</lastmod>
     
   </url>
   
@@ -47,20 +61,6 @@
     <loc>https://blog.lovelijian.top/movies/index.html</loc>
     
     <lastmod>2019-10-25T14:25:48.619Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.lovelijian.top/tags/index.html</loc>
-    
-    <lastmod>2019-10-25T14:24:43.836Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.lovelijian.top/gallery/index.html</loc>
-    
-    <lastmod>2019-10-25T14:24:33.539Z</lastmod>
     
   </url>
   
