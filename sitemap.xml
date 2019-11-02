@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.lovelijian.top/gallery/index.html</loc>
+    
+    <lastmod>2019-11-02T09:44:04.398Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.lovelijian.top/movies/index.html</loc>
+    
+    <lastmod>2019-11-02T08:38:14.856Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.lovelijian.top/music/index.html</loc>
+    
+    <lastmod>2019-11-02T08:37:26.839Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.lovelijian.top/about/index.html</loc>
     
     <lastmod>2019-11-02T02:11:02.346Z</lastmod>
@@ -37,30 +58,9 @@
   </url>
   
   <url>
-    <loc>https://blog.lovelijian.top/music/index.html</loc>
-    
-    <lastmod>2019-10-30T11:40:38.153Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.lovelijian.top/movies/index.html</loc>
-    
-    <lastmod>2019-10-30T11:40:04.319Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.lovelijian.top/link/index.html</loc>
     
     <lastmod>2019-10-30T11:38:19.445Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.lovelijian.top/gallery/index.html</loc>
-    
-    <lastmod>2019-10-28T12:43:13.897Z</lastmod>
     
   </url>
   
