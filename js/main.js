@@ -1,5 +1,5 @@
 $(function () {
-  
+
   const is_Snackbar = GLOBAL_CONFIG.Snackbar !== undefined ? true : false
 
   /**
@@ -12,7 +12,7 @@ $(function () {
     mw = mw + $('#page-header .menus_item').eq(i).outerWidth()
   }
 
-  if ($('#page-header').height() > 37 || window.innerWidth < 7) {
+  if ($('#page-header').height() > 47 || window.innerWidth < 7) {
     header_adjust()
   }
 
@@ -55,7 +55,10 @@ $(function () {
     }
   })
 
-  $('#page-header').css({'opacity':'1', 'animation':'headerNoOpacity .7s'})
+  $('#page-header').css({
+    'opacity': '1',
+    'animation': 'headerNoOpacity .7s'
+  })
 
 
   /**
@@ -345,7 +348,9 @@ $(function () {
     const zoom = mediumZoom(document.querySelectorAll('#post img,.justified-gallery img'))
     zoom.on('open', event => {
       let photoBg = $(document.documentElement).attr('data-theme') == 'dark' ? '#2d3032' : '#fff'
-      zoom.update({ background: photoBg })
+      zoom.update({
+        background: photoBg
+      })
     })
   }
 
@@ -591,7 +596,7 @@ $(function () {
    */
   $("#readmode").click(function () {
     if (Cookies.get("theme") == "dark") {
-      $(document.documentElement).attr('data-theme') == 'dark' ? $(document.documentElement).attr('data-theme','') : $(document.documentElement).attr('data-theme','dark')
+      $(document.documentElement).attr('data-theme') == 'dark' ? $(document.documentElement).attr('data-theme', '') : $(document.documentElement).attr('data-theme', 'dark')
       $('body').toggleClass('read-mode');
       $('#to_comment').toggleClass('is_invisible');
     } else {
@@ -758,7 +763,7 @@ $(function () {
   //       change_dark_icon()
   //       Cookies.remove('theme')
   //     }
-  
+
   //   })
   // }
 
@@ -783,15 +788,19 @@ $(function () {
 
     var nowMode = document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light'
 
-    if ( nowMode == 'light') {
+    if (nowMode == 'light') {
       change_light_icon()
       activateDarkMode()
-      Cookies.set('theme','dark', { expires: 2 })
+      Cookies.set('theme', 'dark', {
+        expires: 2
+      })
       if (is_Snackbar) snackbarShow(GLOBAL_CONFIG.Snackbar.day_to_night)
-    }else{
+    } else {
       change_dark_icon()
       activateLightMode()
-      Cookies.set('theme','light', { expires: 2 })
+      Cookies.set('theme', 'light', {
+        expires: 2
+      })
       if (is_Snackbar) snackbarShow(GLOBAL_CONFIG.Snackbar.night_to_day)
     }
   }
