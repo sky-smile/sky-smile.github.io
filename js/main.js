@@ -12,7 +12,7 @@ $(function () {
     mw = mw + $('#page-header .menus_item').eq(i).outerWidth()
   }
 
-  if ($('#page-header').height() > 47 || window.innerWidth < 7) {
+  if ($('#page-header').height() > 100 || window.innerWidth < 7) {
     header_adjust()
   }
 
