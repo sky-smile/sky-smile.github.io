@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.lovelijian.top/"/>
-  <updated>2019-11-29T19:32:04.528Z</updated>
+  <updated>2019-12-08T10:23:27.170Z</updated>
   <id>https://blog.lovelijian.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Windows文件系统区分大小写</title>
+    <link href="https://blog.lovelijian.top/2019/12/08/2019120801/"/>
+    <id>https://blog.lovelijian.top/2019/12/08/2019120801/</id>
+    <published>2019-12-08T09:20:08.000Z</published>
+    <updated>2019-12-08T10:23:27.170Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Win­dows 的文件系统默认不区分大小写。如果你使用 WSL (Win­dows Sub­sys­tem for Linux) 通过 DrvFs 访问 Win­dows 下的目录来进行一些像编译这样的在 Linux 中习以为常的操作时就可能会遇到问题。</p><h1 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h1><blockquote><p>首先声明环境： Windows10 1909 –18363.476</p></blockquote><p>以<strong>管理员权限</strong>运行 <code>PowerShell</code> 输入下面命令可以开启某个目录区分大小写。</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">fsutil.exe file setCaseSensitiveInfo &lt;path&gt; <span class="built_in">enable</span></span><br></pre></td></tr></table></figure><p>如果不需要区分大小写的属性可以设置为禁用。</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">fsutil.exe file setCaseSensitiveInfo &lt;path&gt; <span class="built_in">disable</span></span><br></pre></td></tr></table></figure><p>执行下面的命令可以查看某个目录是否区分大小写。</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">fsutil.exe file queryCaseSensitiveInfo &lt;path&gt;</span><br></pre></td></tr></table></figure><p> <code>WSL Ubuntu18.04</code>系统文件路径</p><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">C:\Users\[your name]\AppData\Local\Packages\CanonicalGroupLimited.Ubuntu18.04onWindows_79rhkp1fndgsc\LocalState\rootfs</span><br></pre></td></tr></table></figure><p><img style="zoom:50%;" data-src="./Windows01.jpg" class="lazyload"></p><p><strong>请注意：</strong>按目录区分大小写标志不会被继承，所以建议新建目录修改成功后再使用。对于目录中已有的文件，需要把文件剪切到其它目录，然后再<code>复制</code>回来才可以。</p><p align="right">📖<a href="https://devblogs.microsoft.com/commandline/per-directory-case-sensitivity-and-wsl/" target="_blank" rel="noopener">Per-directory case sensitivity and WSL</a> </p><hr>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="Windows" scheme="https://blog.lovelijian.top/categories/Windows/"/>
+    
+    
+      <category term="Windows" scheme="https://blog.lovelijian.top/tags/Windows/"/>
+    
+  </entry>
   
   <entry>
     <title>Windows10子系统(WSL)环境部署</title>
