@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.lovelijian.top/about/index.html</loc>
+    
+    <lastmod>2019-12-19T09:12:16.778Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.lovelijian.top/link/index.html</loc>
     
-    <lastmod>2019-12-17T11:18:52.717Z</lastmod>
+    <lastmod>2019-12-19T08:38:09.208Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.lovelijian.top/resume/index.html</loc>
+    
+    <lastmod>2019-12-19T08:13:27.520Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.lovelijian.top/2019/12/16/2019121601-UbuntuTime/</loc>
+    
+    <lastmod>2019-12-19T06:06:16.161Z</lastmod>
     
   </url>
   
@@ -12,13 +33,6 @@
     <loc>https://blog.lovelijian.top/2019/11/11/2019111101-Hive/</loc>
     
     <lastmod>2019-12-17T10:36:48.158Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.lovelijian.top/2019/12/16/2019121601-UbuntuTime/</loc>
-    
-    <lastmod>2019-12-17T10:26:25.067Z</lastmod>
     
   </url>
   
@@ -89,13 +103,6 @@
     <loc>https://blog.lovelijian.top/2019/10/28/2019102801-Markdown/</loc>
     
     <lastmod>2019-12-14T09:13:47.689Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.lovelijian.top/about/index.html</loc>
-    
-    <lastmod>2019-11-07T12:49:39.840Z</lastmod>
     
   </url>
   
