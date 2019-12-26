@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>常用软件备份</title>
+      <link href="/2019/12/26/2019122601-BackupSoftware/"/>
+      <url>/2019/12/26/2019122601-BackupSoftware/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="提升效率的常用软件备份"><a href="#提升效率的常用软件备份" class="headerlink" title="提升效率的常用软件备份"></a>提升效率的常用软件备份</h1><h2 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h2><ul><li><a href="https://motrix.app/" target="_blank" rel="noopener">motrix</a></li><li><a href="https://www.internetdownloadmanager.com/" target="_blank" rel="noopener">internetdownloadmanager</a></li></ul><h2 id="编辑器"><a href="#编辑器" class="headerlink" title="编辑器"></a>编辑器</h2><ul><li><a href="https://code.visualstudio.com/" target="_blank" rel="noopener">vscode</a></li><li><a href="https://typora.io/" target="_blank" rel="noopener">typora</a></li><li><a href="https://github.com/JasonStein/Notepads" target="_blank" rel="noopener">Notepads</a></li></ul><h2 id="图像"><a href="#图像" class="headerlink" title="图像"></a>图像</h2><ul><li><a href="https://github.com/meowtec/Imagine" target="_blank" rel="noopener">Imagine压缩</a></li><li><a href="https://zh.snipaste.com/" target="_blank" rel="noopener">snipaste截图</a></li><li><a href="https://backiee.com/" target="_blank" rel="noopener">backiee</a></li></ul><h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><ul><li><a href="https://potplayer.daum.net/" target="_blank" rel="noopener">potplayer</a></li></ul><h2 id="压缩"><a href="#压缩" class="headerlink" title="压缩"></a>压缩</h2><ul><li><a href="https://www.7-zip.org/" target="_blank" rel="noopener">7-zip</a></li><li><a href="https://cn.bandisoft.com/bandizip/" target="_blank" rel="noopener">bandizip</a></li></ul><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><ul><li><a href="https://github.com/QL-Win/QuickLook" target="_blank" rel="noopener">QuickLook</a></li><li><a href="https://github.com/zhongyang219/TrafficMonitor" target="_blank" rel="noopener">TrafficMonitor</a></li><li><a href="https://justgetflux.com/" target="_blank" rel="noopener">f.lux</a></li><li><a href="https://www.stardock.com/products/fences/" target="_blank" rel="noopener">fences</a></li><li><a href="https://github.com/TranslucentTB/TranslucentTB" target="_blank" rel="noopener">TranslucentTB</a></li></ul><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> other </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 软件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Ubuntu19.10设置时间同步</title>
       <link href="/2019/12/16/2019121601-UbuntuTime/"/>
       <url>/2019/12/16/2019121601-UbuntuTime/</url>
@@ -35,7 +60,7 @@
       <link href="/2019/12/13/2019121301-openwrt/"/>
       <url>/2019/12/13/2019121301-openwrt/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="Linux-fdisk命令"><a href="#Linux-fdisk命令" class="headerlink" title="Linux fdisk命令"></a>Linux fdisk命令</h1><p>fdisk是提供磁盘分区功能的命令行实用程序。</p><h2 id="语法"><a href="#语法" class="headerlink" title="语法"></a>语法</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">fdisk [必要参数][选择参数]</span><br></pre></td></tr></table></figure><p><strong>必要参数：</strong></p><ul><li><code>-l</code> 列出素所有分区表</li><li><code>-u</code> 与<code>&quot;-l&quot;</code>搭配使用，显示分区数目</li></ul><p><strong>选择参数：</strong></p><ul><li><code>-s</code>&lt;分区编号&gt; 指定分区</li><li><code>-v</code> 版本信息</li></ul><p><strong>菜单操作说明</strong></p><ul><li><code>m</code> ：显示菜单和帮助信息</li><li><code>a</code> ：活动分区标记/引导分区</li><li><code>d</code> ：删除分区</li><li><code>l</code> ：显示分区类型</li><li><code>n</code> ：新建分区</li><li><code>p</code> ：显示分区信息</li><li><code>q</code> ：退出不保存</li><li><code>t</code> ：设置分区号</li><li><code>v</code> ：进行分区检查</li><li><code>w</code> ：保存修改</li><li><code>x</code> ：扩展应用，高级功能</li></ul><h2 id="分区"><a href="#分区" class="headerlink" title="分区"></a>分区</h2><p>输入分区命令</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">fdisk /dev/sda</span><br></pre></td></tr></table></figure><p><img style="zoom:50%;" data-src="/2019/12/13/2019121301-openwrt/01.png" class="lazyload"></p><p>打印分区表（命令）<code>p</code><br>这里显示磁盘的容量、型号、扇区、格式，和已存在的分区。</p><p><img style="zoom:50%;" data-src="/2019/12/13/2019121301-openwrt/02.png" class="lazyload"></p><p>新建分区（命令）<code>n</code></p><p>提示设置分区编号，上面已经有分区1-2了，这里默认是3，直接回车。</p><p>提示输入起始扇区，这里直接回车。</p><p>提示输入结束扇区，把全部剩余空间分为一个区，直接回车。</p><p><img style="zoom:50%;" data-src="/2019/12/13/2019121301-openwrt/03.png" class="lazyload"></p><p>打印分区表（命令）<code>p</code>，看到新建分区已经完成。</p><p>将分区表写入磁盘并退出（命令）<code>w</code>。</p><p><strong>格式化分区（命令）</strong></p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">mkfs.ext4 /dev/sda3</span><br></pre></td></tr></table></figure><p><img style="zoom:50%;" data-src="/2019/12/13/2019121301-openwrt/04.png" class="lazyload"></p><h2 id="挂载分区"><a href="#挂载分区" class="headerlink" title="挂载分区"></a>挂载分区</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">mount /dev/sda3 /mnt/sba3/     #挂载sda3分区，挂载目录为/mnt/sba3/</span><br></pre></td></tr></table></figure><hr>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="Linux-fdisk命令"><a href="#Linux-fdisk命令" class="headerlink" title="Linux fdisk命令"></a>Linux fdisk命令</h1><p>fdisk是提供磁盘分区功能的命令行实用程序。</p><h2 id="语法"><a href="#语法" class="headerlink" title="语法"></a>语法</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">fdisk [必要参数][选择参数]</span><br></pre></td></tr></table></figure><p><strong>必要参数：</strong></p><ul><li><code>-l</code> 列出素所有分区表</li><li><code>-u</code> 与<code>&quot;-l&quot;</code>搭配使用，显示分区数目</li></ul><p><strong>选择参数：</strong></p><ul><li><code>-s</code>&lt;分区编号&gt; 指定分区</li><li><code>-v</code> 版本信息</li></ul><p><strong>菜单操作说明</strong></p><ul><li><code>m</code> ：显示菜单和帮助信息</li><li><code>a</code> ：活动分区标记/引导分区</li><li><code>d</code> ：删除分区</li><li><code>l</code> ：显示分区类型</li><li><code>n</code> ：新建分区</li><li><code>p</code> ：显示分区信息</li><li><code>q</code> ：退出不保存</li><li><code>t</code> ：设置分区号</li><li><code>v</code> ：进行分区检查</li><li><code>w</code> ：保存修改</li><li><code>x</code> ：扩展应用，高级功能</li></ul><h2 id="分区"><a href="#分区" class="headerlink" title="分区"></a>分区</h2><p>输入分区命令</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">fdisk /dev/sda</span><br></pre></td></tr></table></figure><p><img style="zoom:50%;" data-src="/2019/12/13/2019121301-openwrt/01.png" class="lazyload"></p><p>打印分区表（命令）<code>p</code><br>这里显示磁盘的容量、型号、扇区、格式，和已存在的分区。</p><p><img style="zoom:50%;" data-src="/2019/12/13/2019121301-openwrt/02.png" class="lazyload"></p><p>新建分区（命令）<code>n</code></p><p>提示设置分区编号，上面已经有分区1-2了，这里默认是3，直接回车。</p><p>提示输入起始扇区，这里直接回车。</p><p>提示输入结束扇区，把全部剩余空间分为一个区，直接回车。</p><p><img style="zoom:50%;" data-src="/2019/12/13/2019121301-openwrt/03.png" class="lazyload"></p><p>打印分区表（命令）<code>p</code>，看到新建分区已经完成。</p><p>将分区表写入磁盘并退出（命令）<code>w</code>。</p><p><strong>格式化分区（命令）</strong></p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">mkfs.ext4 /dev/sda3</span><br></pre></td></tr></table></figure><p><img style="zoom:50%;" data-src="/2019/12/13/2019121301-openwrt/04.png" class="lazyload"></p><h2 id="挂载分区"><a href="#挂载分区" class="headerlink" title="挂载分区"></a>挂载分区</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">mount /dev/sda3 /mnt/sda3/     #挂载sda3分区，挂载目录为/mnt/sda3/</span><br></pre></td></tr></table></figure><hr>]]></content>
       
       
       <categories>
