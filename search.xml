@@ -201,9 +201,9 @@
             
             <tag> Windows </tag>
             
-            <tag> Linux </tag>
-            
             <tag> WSL </tag>
+            
+            <tag> Linux </tag>
             
         </tags>
       
@@ -228,9 +228,9 @@
       
         <tags>
             
-            <tag> Windows </tag>
-            
             <tag> windowsTerminal </tag>
+            
+            <tag> Windows </tag>
             
         </tags>
       
