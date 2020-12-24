@@ -1,4 +1,4 @@
-> #####  `https://blog.lovelijian.top`
+> #####  `https://blog.lijian.icu`
 
 ------
 
