@@ -5,9 +5,9 @@
   <subtitle>记录点滴，分享技术</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://blog.lovelijian.top/"/>
+  <link href="https://blog.lijian.icu/"/>
   <updated>2020-01-08T10:10:03.723Z</updated>
-  <id>https://blog.lovelijian.top/</id>
+  <id>https://blog.lijian.icu/</id>
   
   <author>
     <name>sky_dream</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Python生成密码字典</title>
-    <link href="https://blog.lovelijian.top/2020/01/08/2020010801-python/"/>
-    <id>https://blog.lovelijian.top/2020/01/08/2020010801-python/</id>
+    <link href="https://blog.lijian.icu/2020/01/08/2020010801-python/"/>
+    <id>https://blog.lijian.icu/2020/01/08/2020010801-python/</id>
     <published>2020-01-08T08:00:11.000Z</published>
     <updated>2020-01-08T10:10:03.723Z</updated>
     
@@ -35,19 +35,19 @@
     </summary>
     
     
-      <category term="Python" scheme="https://blog.lovelijian.top/categories/python/"/>
+      <category term="Python" scheme="https://blog.lijian.icu/categories/python/"/>
     
     
-      <category term="Python" scheme="https://blog.lovelijian.top/tags/Python/"/>
+      <category term="Python" scheme="https://blog.lijian.icu/tags/Python/"/>
     
-      <category term="破解" scheme="https://blog.lovelijian.top/tags/%E7%A0%B4%E8%A7%A3/"/>
+      <category term="破解" scheme="https://blog.lijian.icu/tags/%E7%A0%B4%E8%A7%A3/"/>
     
   </entry>
   
   <entry>
     <title>常用软件备份</title>
-    <link href="https://blog.lovelijian.top/2019/12/26/2019122601-BackupSoftware/"/>
-    <id>https://blog.lovelijian.top/2019/12/26/2019122601-BackupSoftware/</id>
+    <link href="https://blog.lijian.icu/2019/12/26/2019122601-BackupSoftware/"/>
+    <id>https://blog.lijian.icu/2019/12/26/2019122601-BackupSoftware/</id>
     <published>2019-12-26T08:05:25.000Z</published>
     <updated>2019-12-26T09:20:39.877Z</updated>
     
@@ -63,17 +63,17 @@
     </summary>
     
     
-      <category term="other" scheme="https://blog.lovelijian.top/categories/other/"/>
+      <category term="other" scheme="https://blog.lijian.icu/categories/other/"/>
     
     
-      <category term="软件" scheme="https://blog.lovelijian.top/tags/%E8%BD%AF%E4%BB%B6/"/>
+      <category term="软件" scheme="https://blog.lijian.icu/tags/%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
   <entry>
     <title>Ubuntu19.10设置时间同步</title>
-    <link href="https://blog.lovelijian.top/2019/12/16/2019121601-UbuntuTime/"/>
-    <id>https://blog.lovelijian.top/2019/12/16/2019121601-UbuntuTime/</id>
+    <link href="https://blog.lijian.icu/2019/12/16/2019121601-UbuntuTime/"/>
+    <id>https://blog.lijian.icu/2019/12/16/2019121601-UbuntuTime/</id>
     <published>2019-12-16T07:16:05.000Z</published>
     <updated>2019-12-19T06:06:16.161Z</updated>
     
@@ -86,19 +86,19 @@
     </summary>
     
     
-      <category term="Linux" scheme="https://blog.lovelijian.top/categories/Linux/"/>
+      <category term="Linux" scheme="https://blog.lijian.icu/categories/Linux/"/>
     
     
-      <category term="Linux" scheme="https://blog.lovelijian.top/tags/Linux/"/>
+      <category term="Linux" scheme="https://blog.lijian.icu/tags/Linux/"/>
     
-      <category term="Ubuntu" scheme="https://blog.lovelijian.top/tags/Ubuntu/"/>
+      <category term="Ubuntu" scheme="https://blog.lijian.icu/tags/Ubuntu/"/>
     
   </entry>
   
   <entry>
     <title>Linux fdisk命令</title>
-    <link href="https://blog.lovelijian.top/2019/12/13/2019121301-openwrt/"/>
-    <id>https://blog.lovelijian.top/2019/12/13/2019121301-openwrt/</id>
+    <link href="https://blog.lijian.icu/2019/12/13/2019121301-openwrt/"/>
+    <id>https://blog.lijian.icu/2019/12/13/2019121301-openwrt/</id>
     <published>2019-12-13T02:19:39.000Z</published>
     <updated>2019-12-26T09:05:44.584Z</updated>
     
@@ -114,17 +114,17 @@
     </summary>
     
     
-      <category term="Linux" scheme="https://blog.lovelijian.top/categories/Linux/"/>
+      <category term="Linux" scheme="https://blog.lijian.icu/categories/Linux/"/>
     
     
-      <category term="Linux" scheme="https://blog.lovelijian.top/tags/Linux/"/>
+      <category term="Linux" scheme="https://blog.lijian.icu/tags/Linux/"/>
     
   </entry>
   
   <entry>
     <title>Docker常用命令与操作</title>
-    <link href="https://blog.lovelijian.top/2019/12/12/2019121202-docker/"/>
-    <id>https://blog.lovelijian.top/2019/12/12/2019121202-docker/</id>
+    <link href="https://blog.lijian.icu/2019/12/12/2019121202-docker/"/>
+    <id>https://blog.lijian.icu/2019/12/12/2019121202-docker/</id>
     <published>2019-12-12T14:10:03.000Z</published>
     <updated>2020-01-08T10:10:53.277Z</updated>
     
@@ -140,17 +140,17 @@
     </summary>
     
     
-      <category term="Docker" scheme="https://blog.lovelijian.top/categories/Docker/"/>
+      <category term="Docker" scheme="https://blog.lijian.icu/categories/Docker/"/>
     
     
-      <category term="Docker" scheme="https://blog.lovelijian.top/tags/Docker/"/>
+      <category term="Docker" scheme="https://blog.lijian.icu/tags/Docker/"/>
     
   </entry>
   
   <entry>
     <title>Docker安装指南</title>
-    <link href="https://blog.lovelijian.top/2019/12/12/2019121201-docker/"/>
-    <id>https://blog.lovelijian.top/2019/12/12/2019121201-docker/</id>
+    <link href="https://blog.lijian.icu/2019/12/12/2019121201-docker/"/>
+    <id>https://blog.lijian.icu/2019/12/12/2019121201-docker/</id>
     <published>2019-12-12T11:15:33.000Z</published>
     <updated>2020-01-08T10:11:34.602Z</updated>
     
@@ -166,17 +166,17 @@
     </summary>
     
     
-      <category term="Docker" scheme="https://blog.lovelijian.top/categories/Docker/"/>
+      <category term="Docker" scheme="https://blog.lijian.icu/categories/Docker/"/>
     
     
-      <category term="Docker" scheme="https://blog.lovelijian.top/tags/Docker/"/>
+      <category term="Docker" scheme="https://blog.lijian.icu/tags/Docker/"/>
     
   </entry>
   
   <entry>
     <title>LxRunOffline管理WSL</title>
-    <link href="https://blog.lovelijian.top/2019/12/09/2019120901-LxRunOffline/"/>
-    <id>https://blog.lovelijian.top/2019/12/09/2019120901-LxRunOffline/</id>
+    <link href="https://blog.lijian.icu/2019/12/09/2019120901-LxRunOffline/"/>
+    <id>https://blog.lijian.icu/2019/12/09/2019120901-LxRunOffline/</id>
     <published>2019-12-09T10:08:46.000Z</published>
     <updated>2020-01-08T10:12:20.946Z</updated>
     
@@ -192,19 +192,19 @@
     </summary>
     
     
-      <category term="WSL" scheme="https://blog.lovelijian.top/categories/WSL/"/>
+      <category term="WSL" scheme="https://blog.lijian.icu/categories/WSL/"/>
     
     
-      <category term="Windows" scheme="https://blog.lovelijian.top/tags/Windows/"/>
+      <category term="Windows" scheme="https://blog.lijian.icu/tags/Windows/"/>
     
-      <category term="WSL" scheme="https://blog.lovelijian.top/tags/WSL/"/>
+      <category term="WSL" scheme="https://blog.lijian.icu/tags/WSL/"/>
     
   </entry>
   
   <entry>
     <title>Windows文件系统区分大小写</title>
-    <link href="https://blog.lovelijian.top/2019/12/08/2019120801-Windows/"/>
-    <id>https://blog.lovelijian.top/2019/12/08/2019120801-Windows/</id>
+    <link href="https://blog.lijian.icu/2019/12/08/2019120801-Windows/"/>
+    <id>https://blog.lijian.icu/2019/12/08/2019120801-Windows/</id>
     <published>2019-12-08T09:20:08.000Z</published>
     <updated>2020-01-08T10:12:39.616Z</updated>
     
@@ -220,17 +220,17 @@
     </summary>
     
     
-      <category term="Windows" scheme="https://blog.lovelijian.top/categories/Windows/"/>
+      <category term="Windows" scheme="https://blog.lijian.icu/categories/Windows/"/>
     
     
-      <category term="Windows" scheme="https://blog.lovelijian.top/tags/Windows/"/>
+      <category term="Windows" scheme="https://blog.lijian.icu/tags/Windows/"/>
     
   </entry>
   
   <entry>
     <title>Windows10子系统(WSL)环境部署</title>
-    <link href="https://blog.lovelijian.top/2019/11/29/2019112901-WSL/"/>
-    <id>https://blog.lovelijian.top/2019/11/29/2019112901-WSL/</id>
+    <link href="https://blog.lijian.icu/2019/11/29/2019112901-WSL/"/>
+    <id>https://blog.lijian.icu/2019/11/29/2019112901-WSL/</id>
     <published>2019-11-29T09:06:15.000Z</published>
     <updated>2020-01-08T10:12:58.178Z</updated>
     
@@ -246,21 +246,21 @@
     </summary>
     
     
-      <category term="WSL" scheme="https://blog.lovelijian.top/categories/WSL/"/>
+      <category term="WSL" scheme="https://blog.lijian.icu/categories/WSL/"/>
     
     
-      <category term="Windows" scheme="https://blog.lovelijian.top/tags/Windows/"/>
+      <category term="Windows" scheme="https://blog.lijian.icu/tags/Windows/"/>
     
-      <category term="WSL" scheme="https://blog.lovelijian.top/tags/WSL/"/>
+      <category term="WSL" scheme="https://blog.lijian.icu/tags/WSL/"/>
     
-      <category term="Linux" scheme="https://blog.lovelijian.top/tags/Linux/"/>
+      <category term="Linux" scheme="https://blog.lijian.icu/tags/Linux/"/>
     
   </entry>
   
   <entry>
     <title>Windows Terminal美化</title>
-    <link href="https://blog.lovelijian.top/2019/11/28/2019112801-Terminal/"/>
-    <id>https://blog.lovelijian.top/2019/11/28/2019112801-Terminal/</id>
+    <link href="https://blog.lijian.icu/2019/11/28/2019112801-Terminal/"/>
+    <id>https://blog.lijian.icu/2019/11/28/2019112801-Terminal/</id>
     <published>2019-11-27T17:32:09.000Z</published>
     <updated>2020-01-08T10:13:12.082Z</updated>
     
@@ -276,19 +276,19 @@
     </summary>
     
     
-      <category term="Windows" scheme="https://blog.lovelijian.top/categories/Windows/"/>
+      <category term="Windows" scheme="https://blog.lijian.icu/categories/Windows/"/>
     
     
-      <category term="WindowsTerminal" scheme="https://blog.lovelijian.top/tags/WindowsTerminal/"/>
+      <category term="WindowsTerminal" scheme="https://blog.lijian.icu/tags/WindowsTerminal/"/>
     
-      <category term="Windows" scheme="https://blog.lovelijian.top/tags/Windows/"/>
+      <category term="Windows" scheme="https://blog.lijian.icu/tags/Windows/"/>
     
   </entry>
   
   <entry>
     <title>Hive去重方法简记</title>
-    <link href="https://blog.lovelijian.top/2019/11/11/2019111101-Hive/"/>
-    <id>https://blog.lovelijian.top/2019/11/11/2019111101-Hive/</id>
+    <link href="https://blog.lijian.icu/2019/11/11/2019111101-Hive/"/>
+    <id>https://blog.lijian.icu/2019/11/11/2019111101-Hive/</id>
     <published>2019-11-11T13:05:55.000Z</published>
     <updated>2019-12-17T10:36:48.158Z</updated>
     
@@ -301,17 +301,17 @@
     </summary>
     
     
-      <category term="Hive" scheme="https://blog.lovelijian.top/categories/Hive/"/>
+      <category term="Hive" scheme="https://blog.lijian.icu/categories/Hive/"/>
     
     
-      <category term="Hive" scheme="https://blog.lovelijian.top/tags/Hive/"/>
+      <category term="Hive" scheme="https://blog.lijian.icu/tags/Hive/"/>
     
   </entry>
   
   <entry>
     <title>PySpark|DataFrame操作指南</title>
-    <link href="https://blog.lovelijian.top/2019/11/05/2019110501-DataFrame/"/>
-    <id>https://blog.lovelijian.top/2019/11/05/2019110501-DataFrame/</id>
+    <link href="https://blog.lijian.icu/2019/11/05/2019110501-DataFrame/"/>
+    <id>https://blog.lijian.icu/2019/11/05/2019110501-DataFrame/</id>
     <published>2019-11-05T11:54:03.000Z</published>
     <updated>2020-01-08T10:18:12.500Z</updated>
     
@@ -327,17 +327,17 @@
     </summary>
     
     
-      <category term="Spark" scheme="https://blog.lovelijian.top/categories/Spark/"/>
+      <category term="Spark" scheme="https://blog.lijian.icu/categories/Spark/"/>
     
     
-      <category term="PySpark" scheme="https://blog.lovelijian.top/tags/PySpark/"/>
+      <category term="PySpark" scheme="https://blog.lijian.icu/tags/PySpark/"/>
     
   </entry>
   
   <entry>
     <title>Android手机通过SafetyNet检查</title>
-    <link href="https://blog.lovelijian.top/2019/11/02/2019110101-SafetyNet/"/>
-    <id>https://blog.lovelijian.top/2019/11/02/2019110101-SafetyNet/</id>
+    <link href="https://blog.lijian.icu/2019/11/02/2019110101-SafetyNet/"/>
+    <id>https://blog.lijian.icu/2019/11/02/2019110101-SafetyNet/</id>
     <published>2019-11-01T16:17:39.000Z</published>
     <updated>2020-01-08T10:14:43.673Z</updated>
     
@@ -353,17 +353,17 @@
     </summary>
     
     
-      <category term="Android" scheme="https://blog.lovelijian.top/categories/Android/"/>
+      <category term="Android" scheme="https://blog.lijian.icu/categories/Android/"/>
     
     
-      <category term="Android" scheme="https://blog.lovelijian.top/tags/Android/"/>
+      <category term="Android" scheme="https://blog.lijian.icu/tags/Android/"/>
     
   </entry>
   
   <entry>
     <title>Markdown 编辑器语法指南</title>
-    <link href="https://blog.lovelijian.top/2019/10/28/2019102801-Markdown/"/>
-    <id>https://blog.lovelijian.top/2019/10/28/2019102801-Markdown/</id>
+    <link href="https://blog.lijian.icu/2019/10/28/2019102801-Markdown/"/>
+    <id>https://blog.lijian.icu/2019/10/28/2019102801-Markdown/</id>
     <published>2019-10-28T15:09:43.000Z</published>
     <updated>2020-01-08T10:15:08.282Z</updated>
     
@@ -379,10 +379,10 @@
     </summary>
     
     
-      <category term="other" scheme="https://blog.lovelijian.top/categories/other/"/>
+      <category term="other" scheme="https://blog.lijian.icu/categories/other/"/>
     
     
-      <category term="Markdown" scheme="https://blog.lovelijian.top/tags/Markdown/"/>
+      <category term="Markdown" scheme="https://blog.lijian.icu/tags/Markdown/"/>
     
   </entry>
   
