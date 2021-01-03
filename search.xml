@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Python自动复制文件</title>
+      <link href="/2021/01/04/2021010401-pythonCopy/"/>
+      <url>/2021/01/04/2021010401-pythonCopy/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>最近在使用<a href="https://www.microsoft.com/zh-cn/p/backiee-wallpaper-studio-10/9wzdncrfhzcd?activetab=pivot:overviewtab" target="_blank" rel="noopener">backiee</a>，可以自动设置每日壁纸，但是壁纸无法自动保存，所以尝试使用Python脚本解决。</p><h2 id="python脚本"><a class="markdownIt-Anchor" href="#python脚本"></a> Python脚本</h2><div class="code-area-wrap"><div class="highlight-tools"><i class="fa fa-angle-down code-expand" aria-hidden="true"></i><div class="code_lang">python</div><div class="copy-notice"></div><i class="fa fa-clipboard" aria-hidden="true"></i></div><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment">#-*- coding: utf-8 -*-</span></span><br><span class="line"><span class="keyword">import</span> os</span><br><span class="line"><span class="keyword">import</span> shutil</span><br><span class="line"></span><br><span class="line">address = <span class="string">'C:/Users/sky/AppData/Local/Packages/35010GOOD2CREATE.LIVELOCKTHEMES_cxjy25q2av1xg/LocalState/'</span>  <span class="comment"># 需要遍历的目录</span></span><br><span class="line">dest = <span class="string">'D:/Users/sky/Pictures/Saved Pictures'</span>  <span class="comment"># 目标位置</span></span><br><span class="line">n = <span class="number">0</span></span><br><span class="line"></span><br><span class="line"><span class="keyword">for</span> folder, sub_folders, files <span class="keyword">in</span> os.walk(address):  <span class="comment"># 遍历指定目录</span></span><br><span class="line"></span><br><span class="line">    <span class="keyword">if</span> files:  <span class="comment"># 如果文件列表不是空的</span></span><br><span class="line">        <span class="comment">#print('the files in ' + folder + ':')</span></span><br><span class="line">        <span class="keyword">for</span> file <span class="keyword">in</span> files:</span><br><span class="line">            <span class="comment"># print(file)</span></span><br><span class="line">            <span class="keyword">if</span> file.endswith(<span class="string">'.jpg'</span>):  <span class="comment"># 查找以jpg为后缀的文件</span></span><br><span class="line">                n += <span class="number">1</span>  <span class="comment"># 计数</span></span><br><span class="line">                source = os.path.join(folder, file)  <span class="comment"># 原文件路径名</span></span><br><span class="line">                destination = os.path.join(dest, file)  <span class="comment"># 目标文件路径名</span></span><br><span class="line">                new_dest = shutil.copy(source, destination)  <span class="comment"># 拷贝</span></span><br><span class="line">                <span class="comment">#print('source is ' + source)</span></span><br><span class="line">                <span class="comment">#print('destination is ' + destination)</span></span><br><span class="line">                print(<span class="string">'the copy : '</span> + new_dest)  <span class="comment"># 拷贝文件的路径</span></span><br><span class="line"></span><br><span class="line">print(<span class="string">'the number of copies = '</span>, n)  <span class="comment"># 总拷贝数</span></span><br><span class="line">print(<span class="string">'over!'</span>)</span><br></pre></td></tr></table></figure></div><h2 id="windows自动任务"><a class="markdownIt-Anchor" href="#windows自动任务"></a> Windows自动任务</h2><p>创建Windows自动任务</p><a href="/2021/01/04/2021010401-pythonCopy/pythonCopy01.png" data-fancybox="group" data-caption="undefined" class="fancybox"><img style="zoom: 50%;" data-src="/2021/01/04/2021010401-pythonCopy/pythonCopy01.png" class="lazyload"></a><p>注意：直接设置启动<code>.py</code>脚本Windows会弹出窗口，可以改为<code>.pyw</code>即可避免弹窗。</p><a href="/2021/01/04/2021010401-pythonCopy/pythonCopy02.png" data-fancybox="group" data-caption="undefined" class="fancybox"><img style="zoom:50%;" data-src="/2021/01/04/2021010401-pythonCopy/pythonCopy02.png" class="lazyload"></a>]]></content>
+      
+      
+      <categories>
+          
+          <category> Python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Python </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Python生成密码字典</title>
       <link href="/2020/01/08/2020010801-python/"/>
       <url>/2020/01/08/2020010801-python/</url>
@@ -255,9 +280,9 @@
       
         <tags>
             
-            <tag> WindowsTerminal </tag>
-            
             <tag> Windows </tag>
+            
+            <tag> WindowsTerminal </tag>
             
         </tags>
       

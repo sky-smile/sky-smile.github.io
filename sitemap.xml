@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.lijian.icu/2021/01/04/2021010401-pythonCopy/</loc>
+    
+    <lastmod>2021-01-03T19:21:46.337Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.lijian.icu/2020/01/08/2020010801-python/</loc>
+    
+    <lastmod>2021-01-03T18:45:59.321Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.lijian.icu/2019/11/05/2019110501-DataFrame/</loc>
     
     <lastmod>2020-01-08T10:18:12.500Z</lastmod>
@@ -61,13 +75,6 @@
     <loc>https://blog.lijian.icu/2019/12/12/2019121202-docker/</loc>
     
     <lastmod>2020-01-08T10:10:53.277Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.lijian.icu/2020/01/08/2020010801-python/</loc>
-    
-    <lastmod>2020-01-08T10:10:03.723Z</lastmod>
     
   </url>
   
