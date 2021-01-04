@@ -2,21 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.lijian.icu/2021010401-pythonCopy/</loc>
+    
+    <lastmod>2021-01-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.lijian.icu/2020010801-python/</loc>
+    
+    <lastmod>2021-01-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.lijian.icu/2019122601-BackupSoftware/</loc>
+    
+    <lastmod>2021-01-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.lijian.icu/2019121601-UbuntuTime/</loc>
+    
+    <lastmod>2021-01-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.lijian.icu/2019121301-openwrt/</loc>
+    
+    <lastmod>2021-01-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.lijian.icu/2019121202-docker/</loc>
+    
+    <lastmod>2021-01-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.lijian.icu/2019121201-docker/</loc>
+    
+    <lastmod>2021-01-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.lijian.icu/2019120901-LxRunOffline/</loc>
+    
+    <lastmod>2021-01-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.lijian.icu/2019120801-Windows/</loc>
+    
+    <lastmod>2021-01-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.lijian.icu/2019112901-WSL/</loc>
+    
+    <lastmod>2021-01-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.lijian.icu/2019112801-Terminal/</loc>
+    
+    <lastmod>2021-01-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.lijian.icu/2019111101-Hive/</loc>
+    
+    <lastmod>2021-01-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.lijian.icu/2019110501-DataFrame/</loc>
+    
+    <lastmod>2021-01-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.lijian.icu/2019110101-SafetyNet/</loc>
+    
+    <lastmod>2021-01-04</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.lijian.icu/2019102801-Markdown/</loc>
+    
+    <lastmod>2021-01-04</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.lijian.icu/resume/index.html</loc>
-    
-    <lastmod>2021-01-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.lijian.icu/2019/11/28/2019112801-Terminal/</loc>
-    
-    <lastmod>2021-01-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.lijian.icu/2019/12/13/2019121301-openwrt/</loc>
     
     <lastmod>2021-01-04</lastmod>
     
@@ -37,100 +128,9 @@
   </url>
   
   <url>
-    <loc>https://blog.lijian.icu/2021/01/04/2021010401-pythonCopy/</loc>
-    
-    <lastmod>2021-01-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.lijian.icu/2019/12/08/2019120801-Windows/</loc>
-    
-    <lastmod>2021-01-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.lijian.icu/2019/11/02/2019110101-SafetyNet/</loc>
-    
-    <lastmod>2021-01-04</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.lijian.icu/2019/12/16/2019121601-UbuntuTime/</loc>
-    
-    <lastmod>2021-01-04</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://blog.lijian.icu/link/index.html</loc>
     
     <lastmod>2021-01-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.lijian.icu/2020/01/08/2020010801-python/</loc>
-    
-    <lastmod>2021-01-03</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.lijian.icu/2019/11/05/2019110501-DataFrame/</loc>
-    
-    <lastmod>2020-01-08</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.lijian.icu/2019/10/28/2019102801-Markdown/</loc>
-    
-    <lastmod>2020-01-08</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.lijian.icu/2019/11/29/2019112901-WSL/</loc>
-    
-    <lastmod>2020-01-08</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.lijian.icu/2019/12/09/2019120901-LxRunOffline/</loc>
-    
-    <lastmod>2020-01-08</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.lijian.icu/2019/12/12/2019121201-docker/</loc>
-    
-    <lastmod>2020-01-08</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.lijian.icu/2019/12/12/2019121202-docker/</loc>
-    
-    <lastmod>2020-01-08</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.lijian.icu/2019/12/26/2019122601-BackupSoftware/</loc>
-    
-    <lastmod>2019-12-26</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.lijian.icu/2019/11/11/2019111101-Hive/</loc>
-    
-    <lastmod>2019-12-17</lastmod>
     
   </url>
   
@@ -255,13 +255,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://blog.lijian.icu/tags/PySpark/</loc>
-    <lastmod>2021-01-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   
   <url>
@@ -300,13 +293,6 @@
   </url>
   
   <url>
-    <loc>https://blog.lijian.icu/categories/Linux/</loc>
-    <lastmod>2021-01-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.lijian.icu/categories/Docker/</loc>
     <lastmod>2021-01-04</lastmod>
     <changefreq>daily</changefreq>
@@ -314,14 +300,14 @@
   </url>
   
   <url>
-    <loc>https://blog.lijian.icu/categories/python/</loc>
+    <loc>https://blog.lijian.icu/categories/Linux/</loc>
     <lastmod>2021-01-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lijian.icu/categories/Spark/</loc>
+    <loc>https://blog.lijian.icu/categories/python/</loc>
     <lastmod>2021-01-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
