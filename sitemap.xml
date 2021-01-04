@@ -193,7 +193,7 @@
   </url>
   
   <url>
-    <loc>https://blog.lijian.icu/tags/WSL/</loc>
+    <loc>https://blog.lijian.icu/tags/Terminal/</loc>
     <lastmod>2021-01-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -207,14 +207,14 @@
   </url>
   
   <url>
-    <loc>https://blog.lijian.icu/tags/Linux/</loc>
+    <loc>https://blog.lijian.icu/tags/WSL/</loc>
     <lastmod>2021-01-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lijian.icu/tags/Terminal/</loc>
+    <loc>https://blog.lijian.icu/tags/Linux/</loc>
     <lastmod>2021-01-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -228,14 +228,14 @@
   </url>
   
   <url>
-    <loc>https://blog.lijian.icu/tags/Ubuntu/</loc>
+    <loc>https://blog.lijian.icu/tags/%E8%BD%AF%E4%BB%B6/</loc>
     <lastmod>2021-01-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.lijian.icu/tags/%E8%BD%AF%E4%BB%B6/</loc>
+    <loc>https://blog.lijian.icu/tags/Ubuntu/</loc>
     <lastmod>2021-01-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -286,13 +286,6 @@
   </url>
   
   <url>
-    <loc>https://blog.lijian.icu/categories/WSL/</loc>
-    <lastmod>2021-01-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.lijian.icu/categories/Windows/</loc>
     <lastmod>2021-01-04</lastmod>
     <changefreq>daily</changefreq>
@@ -300,7 +293,7 @@
   </url>
   
   <url>
-    <loc>https://blog.lijian.icu/categories/Docker/</loc>
+    <loc>https://blog.lijian.icu/categories/WSL/</loc>
     <lastmod>2021-01-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -308,6 +301,13 @@
   
   <url>
     <loc>https://blog.lijian.icu/categories/Linux/</loc>
+    <lastmod>2021-01-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.lijian.icu/categories/Docker/</loc>
     <lastmod>2021-01-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
