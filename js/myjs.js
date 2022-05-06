@@ -1,0 +1,1 @@
+$(document).ready((function(a){$(".copyright").html('©2019-2021 <i style="color:#FF6A6A;animation: announ_animation 0.8s linear infinite;" class="fa fa-heartbeat"></i> sky_dream')}));
