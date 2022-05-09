@@ -6,7 +6,7 @@
   <link href="https://blog.skysmile.ltd/atom.xml" rel="self"/>
   
   <link href="https://blog.skysmile.ltd/"/>
-  <updated>2022-05-05T11:25:03.605Z</updated>
+  <updated>2022-05-09T04:48:39.621Z</updated>
   <id>https://blog.skysmile.ltd/</id>
   
   <author>
@@ -15,6 +15,78 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Windows建立符号链接</title>
+    <link href="https://blog.skysmile.ltd/skydream/ceb445ba/"/>
+    <id>https://blog.skysmile.ltd/skydream/ceb445ba/</id>
+    <published>2022-05-09T04:32:35.000Z</published>
+    <updated>2022-05-09T04:48:39.621Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="windows建立符号链接"><a class="markdownIt-Anchor" href="#windows建立符号链接"></a> Windows建立符号链接</h1><figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">MKLINK [[/<span class="type">D</span>] | [/<span class="type">H</span>] | [/<span class="type">J</span>]] Link Target</span><br><span class="line"></span><br><span class="line">        /D      创建目录符号链接。默认为文件符号链接。</span><br><span class="line">        /<span class="built_in">H</span>      创建硬链接而非符号链接。</span><br><span class="line">        /J      创建目录联接。</span><br><span class="line">        Link    指定新的符号链接名称。</span><br><span class="line">        Target  指定新链接引用的路径(相对或绝对)。  </span><br></pre></td></tr></table></figure><p>可解决文件目录空格引起的问题,如下：</p><p>Windows对空格充满了深深地恶意。所以在目录前要加个引号。</p><figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">C:\WINDOWS\system32&gt;mklink /D C:\java C:<span class="string">&quot;\Program Files\Java&quot;</span></span><br></pre></td></tr></table></figure><hr>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="Windows" scheme="https://blog.skysmile.ltd/categories/Windows/"/>
+    
+    
+    <category term="Windows" scheme="https://blog.skysmile.ltd/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Steam Xbox驱动安装</title>
+    <link href="https://blog.skysmile.ltd/skydream/86996560/"/>
+    <id>https://blog.skysmile.ltd/skydream/86996560/</id>
+    <published>2022-05-09T04:03:38.000Z</published>
+    <updated>2022-05-09T04:44:46.286Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="steam-xbox驱动安装"><a class="markdownIt-Anchor" href="#steam-xbox驱动安装"></a> steam xbox驱动安装</h1><p><strong><strong>进入以下目录，用管理员打开终端</strong><br>C:\Program Files (x86)\Common Files\Steam</strong></p><figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">.\steamxboxutil64 <span class="literal">--install</span> driver\windows11\x64</span><br></pre></td></tr></table></figure><hr>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="Steam" scheme="https://blog.skysmile.ltd/categories/Steam/"/>
+    
+    
+    <category term="Steam" scheme="https://blog.skysmile.ltd/tags/Steam/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>联想电脑的打开方式选择器被劫持的解决方案</title>
+    <link href="https://blog.skysmile.ltd/skydream/932c8b59/"/>
+    <id>https://blog.skysmile.ltd/skydream/932c8b59/</id>
+    <published>2022-05-09T03:36:30.000Z</published>
+    <updated>2022-05-09T05:02:30.206Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="联想电脑的打开方式选择器被劫持的解决方案"><a class="markdownIt-Anchor" href="#联想电脑的打开方式选择器被劫持的解决方案"></a> 联想电脑的打开方式选择器被劫持的解决方案</h1><p>联想应用商店加入了名为“LeASOpen”工具类插件，插件强制捆绑了所有没有指定默认打开应用的文件后缀，强制跳转到联想应用商店，并且软件内没有任何设置开关。</p><div class="note danger no-icon flat"><p><strong>垃圾联想</strong></p></div><h2 id="第一步-删除程序文件"><a class="markdownIt-Anchor" href="#第一步-删除程序文件"></a> 第一步 删除程序文件</h2><ol><li>找到位于C:\Program Files (x86)\Common Files\LeASOpen的文件夹。</li><li>删除LeASOpen文件夹。</li></ol><h2 id="第二步-清理注册表"><a class="markdownIt-Anchor" href="#第二步-清理注册表"></a> 第二步 清理注册表</h2><blockquote><p>⚠️<strong>本操作有风险，修改注册表需谨慎。</strong></p></blockquote><ol><li>使用Win+R快捷键打开运行窗口。</li><li>输入regedit并回车，打开注册表编辑器。</li><li>找到HKEY_CLASSES_ROOT\Unknown\shell\LeASOpen</li><li>删除LeASOpen整个文件夹，一定不要多删！</li></ol><hr>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="Windows" scheme="https://blog.skysmile.ltd/categories/Windows/"/>
+    
+    
+    <category term="Lenovo" scheme="https://blog.skysmile.ltd/tags/Lenovo/"/>
+    
+  </entry>
   
   <entry>
     <title>Windows程序包管理器Winget</title>
