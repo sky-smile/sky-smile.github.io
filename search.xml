@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>ViVeTool</title>
+      <link href="/skydream/c2c5713a/"/>
+      <url>/skydream/c2c5713a/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="windows-11使用vivetool开启新功能"><a class="markdownIt-Anchor" href="#windows-11使用vivetool开启新功能"></a> Windows 11使用ViveTool开启新功能</h1><p>不过我们开启 Windows 测试版中隐藏的新功能并不需要知道全部的参数，只需要其中一个参数实现新功能的开启或者关闭，只不过在 v0.3.1 中这个语法有所调整，比如说开启某个功能，语法是：</p><figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">.\ViVeTool /enable /id:数字</span><br></pre></td></tr></table></figure><p>看到终端提示后，重启电脑就可以看到新功能被开启了。当然这些测试中的功能也不算稳定，如果想要禁用之前开启的功能，则需要输入：</p><figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">.\ViVetool /disable /id:数字</span><br></pre></td></tr></table></figure><p>至于功能对应的 ID 数字是从何而来的，我们则可以通过参数 /query 获取，比如说执行下面的这条命令，你就会得到当前系统版本下可以开启的功能 ID：</p><figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">.\vivetool /query</span><br></pre></td></tr></table></figure><h2 id="启用新版打开方式"><a class="markdownIt-Anchor" href="#启用新版打开方式"></a> 启用新版打开方式</h2><figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">#启用新版打开方式</span></span><br><span class="line">.\vivetool /enable /id:<span class="number">36354489</span></span><br><span class="line"><span class="comment">#禁用新版打开方式</span></span><br><span class="line">.\vivetool /disable /id:<span class="number">36354489</span></span><br><span class="line"><span class="comment">#以上操作完成后需重启资源管理器</span></span><br></pre></td></tr></table></figure><h2 id="绕过ab测试强开windows-11-22h2版的文件资源管理器选项卡模式"><a class="markdownIt-Anchor" href="#绕过ab测试强开windows-11-22h2版的文件资源管理器选项卡模式"></a> 绕过A/B测试强开Windows 11 22H2版的文件资源管理器选项卡模式</h2><p>使用管理员模式打开终端并进入<strong>ViveTool</strong>文件夹<br>也可以在终端设置里预先将<strong>CMD</strong>或者<strong>PowerShell</strong>设置为管理员模式<br>然后在<strong>ViveTool</strong>解压后的文件夹空白处点右键选择终端打开就是管理员模式</p><figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">#文件资源管理器标签页 粘贴一条按一次回车</span></span><br><span class="line">.\vivetool /enable /id:<span class="number">39145991</span> </span><br><span class="line">.\vivetool /enable /id:<span class="number">37634385</span> </span><br><span class="line"><span class="comment">#左侧导航窗口新布局</span></span><br><span class="line">.\vivetool /enable /id:<span class="number">39145991</span> </span><br><span class="line">.\vivetool /enable /id:<span class="number">36354489</span> </span><br><span class="line"><span class="comment">#操作完成后别忘记重启系统</span></span><br></pre></td></tr></table></figure><h2 id="解锁win10x触摸键盘"><a class="markdownIt-Anchor" href="#解锁win10x触摸键盘"></a> 解锁Win10X触摸键盘</h2><figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">.\vivetool /enable /id:<span class="number">20438551</span> </span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> Windows </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Windows </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Windows建立符号链接</title>
       <link href="/skydream/ceb445ba/"/>
       <url>/skydream/ceb445ba/</url>
@@ -407,9 +432,9 @@
       
         <tags>
             
-            <tag> Terminal </tag>
-            
             <tag> Windows </tag>
+            
+            <tag> Terminal </tag>
             
         </tags>
       

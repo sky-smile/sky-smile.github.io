@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.skysmile.ltd/skydream/c2c5713a/</loc>
+    
+    <lastmod>2022-07-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.skysmile.ltd/skydream/932c8b59/</loc>
     
     <lastmod>2022-05-09</lastmod>
@@ -265,127 +274,127 @@
 
   <url>
     <loc>https://blog.skysmile.ltd/</loc>
-    <lastmod>2022-05-09</lastmod>
+    <lastmod>2022-07-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://blog.skysmile.ltd/tags/PySpark/</loc>
-    <lastmod>2022-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.skysmile.ltd/tags/Markdown/</loc>
-    <lastmod>2022-05-09</lastmod>
+    <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.skysmile.ltd/tags/Android/</loc>
-    <lastmod>2022-05-09</lastmod>
+    <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.skysmile.ltd/tags/Hive/</loc>
-    <lastmod>2022-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.skysmile.ltd/tags/Terminal/</loc>
-    <lastmod>2022-05-09</lastmod>
+    <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.skysmile.ltd/tags/Windows/</loc>
-    <lastmod>2022-05-09</lastmod>
+    <lastmod>2022-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.skysmile.ltd/tags/PySpark/</loc>
+    <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.skysmile.ltd/tags/WSL/</loc>
-    <lastmod>2022-05-09</lastmod>
+    <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.skysmile.ltd/tags/Linux/</loc>
-    <lastmod>2022-05-09</lastmod>
+    <lastmod>2022-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.skysmile.ltd/tags/Terminal/</loc>
+    <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.skysmile.ltd/tags/Docker/</loc>
-    <lastmod>2022-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.skysmile.ltd/tags/%E8%BD%AF%E4%BB%B6/</loc>
-    <lastmod>2022-05-09</lastmod>
+    <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.skysmile.ltd/tags/Ubuntu/</loc>
-    <lastmod>2022-05-09</lastmod>
+    <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.skysmile.ltd/tags/Python/</loc>
-    <lastmod>2022-05-09</lastmod>
+    <lastmod>2022-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.skysmile.ltd/tags/%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.skysmile.ltd/tags/%E7%A0%B4%E8%A7%A3/</loc>
-    <lastmod>2022-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.skysmile.ltd/tags/Scoop/</loc>
-    <lastmod>2022-05-09</lastmod>
+    <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.skysmile.ltd/tags/Winget/</loc>
-    <lastmod>2022-05-09</lastmod>
+    <lastmod>2022-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.skysmile.ltd/tags/Scoop/</loc>
+    <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.skysmile.ltd/tags/Lenovo/</loc>
-    <lastmod>2022-05-09</lastmod>
+    <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.skysmile.ltd/tags/Steam/</loc>
-    <lastmod>2022-05-09</lastmod>
+    <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -393,71 +402,71 @@
 
   
   <url>
-    <loc>https://blog.skysmile.ltd/categories/Spark/</loc>
-    <lastmod>2022-05-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.skysmile.ltd/categories/other/</loc>
-    <lastmod>2022-05-09</lastmod>
+    <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.skysmile.ltd/categories/Android/</loc>
-    <lastmod>2022-05-09</lastmod>
+    <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.skysmile.ltd/categories/Hive/</loc>
-    <lastmod>2022-05-09</lastmod>
+    <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.skysmile.ltd/categories/Windows/</loc>
-    <lastmod>2022-05-09</lastmod>
+    <lastmod>2022-07-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.skysmile.ltd/categories/Spark/</loc>
+    <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.skysmile.ltd/categories/WSL/</loc>
-    <lastmod>2022-05-09</lastmod>
+    <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.skysmile.ltd/categories/Docker/</loc>
-    <lastmod>2022-05-09</lastmod>
+    <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.skysmile.ltd/categories/Linux/</loc>
-    <lastmod>2022-05-09</lastmod>
+    <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.skysmile.ltd/categories/Python/</loc>
-    <lastmod>2022-05-09</lastmod>
+    <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.skysmile.ltd/categories/Steam/</loc>
-    <lastmod>2022-05-09</lastmod>
+    <lastmod>2022-07-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
