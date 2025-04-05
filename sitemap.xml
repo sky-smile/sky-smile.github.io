@@ -367,6 +367,13 @@
   </url>
   
   <url>
+    <loc>https://blog.skysmile.ltd/tags/PySpark/</loc>
+    <lastmod>2025-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.skysmile.ltd/tags/Hive/</loc>
     <lastmod>2025-04-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -382,13 +389,6 @@
   
   <url>
     <loc>https://blog.skysmile.ltd/tags/Windows/</loc>
-    <lastmod>2025-04-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.skysmile.ltd/tags/PySpark/</loc>
     <lastmod>2025-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -416,14 +416,14 @@
   </url>
   
   <url>
-    <loc>https://blog.skysmile.ltd/tags/%E8%BD%AF%E4%BB%B6/</loc>
+    <loc>https://blog.skysmile.ltd/tags/Ubuntu/</loc>
     <lastmod>2025-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.skysmile.ltd/tags/Ubuntu/</loc>
+    <loc>https://blog.skysmile.ltd/tags/%E8%BD%AF%E4%BB%B6/</loc>
     <lastmod>2025-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -437,13 +437,6 @@
   </url>
   
   <url>
-    <loc>https://blog.skysmile.ltd/tags/Scoop/</loc>
-    <lastmod>2025-04-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.skysmile.ltd/tags/%E7%A0%B4%E8%A7%A3/</loc>
     <lastmod>2025-04-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -451,7 +444,7 @@
   </url>
   
   <url>
-    <loc>https://blog.skysmile.ltd/tags/Steam/</loc>
+    <loc>https://blog.skysmile.ltd/tags/Scoop/</loc>
     <lastmod>2025-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -472,14 +465,7 @@
   </url>
   
   <url>
-    <loc>https://blog.skysmile.ltd/tags/Git/</loc>
-    <lastmod>2025-04-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.skysmile.ltd/tags/OpenWrt/</loc>
+    <loc>https://blog.skysmile.ltd/tags/Steam/</loc>
     <lastmod>2025-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -494,6 +480,20 @@
   
   <url>
     <loc>https://blog.skysmile.ltd/tags/%E7%BD%91%E7%BB%9C/</loc>
+    <lastmod>2025-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.skysmile.ltd/tags/Git/</loc>
+    <lastmod>2025-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.skysmile.ltd/tags/OpenWrt/</loc>
     <lastmod>2025-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -530,6 +530,13 @@
   </url>
   
   <url>
+    <loc>https://blog.skysmile.ltd/categories/Spark/</loc>
+    <lastmod>2025-04-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.skysmile.ltd/categories/Hive/</loc>
     <lastmod>2025-04-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -538,13 +545,6 @@
   
   <url>
     <loc>https://blog.skysmile.ltd/categories/Windows/</loc>
-    <lastmod>2025-04-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.skysmile.ltd/categories/Spark/</loc>
     <lastmod>2025-04-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
